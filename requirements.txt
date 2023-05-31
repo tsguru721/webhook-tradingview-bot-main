@@ -1,0 +1,5 @@
+express
+body-parser
+node-binance-api
+fs
+node-telegram-bot-api
